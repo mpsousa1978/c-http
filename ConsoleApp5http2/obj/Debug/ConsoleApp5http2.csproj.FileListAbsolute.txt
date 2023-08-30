@@ -1,0 +1,11 @@
+C:\Projetos\C#\ConsoleApp5http2\obj\Debug\ConsoleApp5http2.csproj.AssemblyReference.cache
+C:\Projetos\C#\ConsoleApp5http2\obj\Debug\ConsoleApp5http2.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\C#\ConsoleApp5http2\obj\Debug\ConsoleApp5http2.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\ConsoleApp5http2\bin\Debug\ConsoleApp5http2.exe.config
+C:\Projetos\C#\ConsoleApp5http2\bin\Debug\ConsoleApp5http2.exe
+C:\Projetos\C#\ConsoleApp5http2\bin\Debug\ConsoleApp5http2.pdb
+C:\Projetos\C#\ConsoleApp5http2\obj\Debug\ConsoleApp5http2.exe
+C:\Projetos\C#\ConsoleApp5http2\obj\Debug\ConsoleApp5http2.pdb
+C:\Projetos\C#\ConsoleApp5http2\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\C#\ConsoleApp5http2\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\C#\ConsoleApp5http2\obj\Debug\ConsoleApp5http2.csproj.CopyComplete
